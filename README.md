@@ -1,5 +1,4 @@
-<a href="https://ayt1da.github.io/
-CSS-Variable-Manipulation/" ><h1> CSS Variable Manipulation Through JS </h1></a>
+# <a href="https://ayt1da.github.io/CSS-Variable-Manipulation/" > CSS Variable Manipulation Through JS </a>
 
 Using Js, you can change CSS properties!
 
